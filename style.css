@@ -1,0 +1,8 @@
+body{
+    margin:0;
+}
+#canvas{
+    background:-moz-radial-gradient(#144b6b, #000);
+    background:-webkit-radial-gradient(#144b6b, #000);
+    background:radial-gradient(#144b6b, #000);    
+}
